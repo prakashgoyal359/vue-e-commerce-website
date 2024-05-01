@@ -1,0 +1,11 @@
+<template>
+    <button class=" bg-green-400 hover:bg-green-500 duration-300 font-sm text-white rounded
+    py-1.5 px-5">
+    <i class="bi bi-cart-fill mr-2"></i>Cart</button>
+</template>
+
+<script>
+export default {
+    
+}
+</script>
